@@ -1,0 +1,10 @@
+<advancedpdftemplate scriptid="custtmpl_176_8176422_653">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>SEARCH</printtype>
+  <savedsearch>[scriptid=customsearch554]</savedsearch>
+  <title>BML Master Carton Print</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
